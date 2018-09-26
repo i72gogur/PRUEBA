@@ -3,3 +3,6 @@
 *este texto va en cursiva*
 1. hola
 2. adios
+
+* lista 1
+* lista 2
