@@ -14,3 +14,10 @@
   #### encabezado 4
   ##### encabezado 5
   ###### encabezado 6
+
+~~~
+hola
+adios
+~~~
+
+'init'
